@@ -20,7 +20,6 @@ public class PipeMovingScript : MonoBehaviour
         transform.position = transform.position + (Vector3.left * moveSpeed * Time.deltaTime);
         //if the position of the pipe is greater than the dead zone, the pipe is despawned
     if (transform.position.x < deadZone){
-        Debug.Log("Pipe Deleted");
         Destroy(gameObject);
     }
     }
