@@ -246,7 +246,7 @@ GameObject:
   - component: {fileID: 407627820}
   m_Layer: 3
   m_Name: Bird
-  m_TagString: Untagged
+  m_TagString: Bird
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1040,7 +1040,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pipe: {fileID: 2211997330015460334, guid: 17828a2e4eab98a4fb44fa88d42f4374, type: 3}
-  SpawnRate: 2
+  SpawnRate: 3
   heightOffset: 10
 --- !u!4 &1592306999
 Transform:
