@@ -1,3 +1,2 @@
 # Flappy-Bird
-Flappy Bird Tutorial By GMKT. 
-There will be two branches. One original Flappy Bird that will be exactly the same as the tutorial. And another which will be my modified version. Then a third branch will be the dev branch.
+Some of my first exposure to coding is in this repo with the Flappy-Bird tutorial by GMKT. End of seventh grade, roughly, going into my summer before eighth.
